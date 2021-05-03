@@ -10,6 +10,7 @@ namespace ConsoleFirstApp
             Console.WriteLine("Second Work");
             Console.WriteLine("Third Work");
             Console.WriteLine("Fourth Work");
+            Console.WriteLine("hihi");
         }
     }
 }
