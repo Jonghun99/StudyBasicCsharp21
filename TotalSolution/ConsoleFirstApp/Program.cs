@@ -9,7 +9,6 @@ namespace ConsoleFirstApp
             Console.WriteLine("Hello World!");
             Console.WriteLine("Second Work");
             Console.WriteLine("Third Work");
-            Console.WriteLine("Fourth Work");
         }
     }
 }
